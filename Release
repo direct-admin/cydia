@@ -1,0 +1,16 @@
+Origin: Duc Bo Repository
+
+Label: Duc Bo Repository
+
+Suite: stable
+
+Version: 1.0
+
+Codename: stable
+
+Architectures: iphoneos-arm
+
+Components: main
+
+Description: Duc Bo Repository
+
