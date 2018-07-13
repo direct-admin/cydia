@@ -1,1 +1,32 @@
-Package: com.duc5e.com.bioprotectxforios11 Name: BioProtect X for iOS 11 Version: 2.3-10 Architecture: iphoneos-arm Description: Protect your apps with Touch/Face ID! Depiction: http://duc5e.com/debs/com.duc5e.com.bioprotectxforios11/FILE/index.html Maintainer: admin@tel.lv <admin@tel.lv> Author: admin@tel.lv <admin@tel.lv> Sponsor: admin@tel.lv <admin@tel.lv> Section: Tweaks Depends: mobilesubstrate, preferenceloader Conflicts: net.limneos.bioprotect Icon: http://itiaprepo.com/tiz38/test.png Size: 751476 MD5sum: 507be971f3b12f73393cee9408ea5e89 Filename: ./debs/com.duc5e.com.bioprotectxforios11/com.duc5e.com.bioprotectxforios11.deb 
+Package: com.duc5e.com.bioprotectxforios11
+
+Name: BioProtect X for iOS 11
+
+Version: 2.3-10
+
+Architecture: iphoneos-arm
+
+Description: Protect your apps with Touch/Face ID!
+
+Depiction: http://duc5e.com/debs/com.duc5e.com.bioprotectxforios11/FILE/index.html
+
+Maintainer: admin@tel.lv <admin@tel.lv>
+
+Author: admin@tel.lv <admin@tel.lv>
+
+Sponsor: admin@tel.lv <admin@tel.lv>
+
+Section: Tweaks
+
+Depends: mobilesubstrate, preferenceloader
+
+Conflicts: net.limneos.bioprotect
+
+Icon: http://itiaprepo.com/tiz38/test.png
+
+Size: 751476
+
+MD5sum: 507be971f3b12f73393cee9408ea5e89
+
+Filename: ./debs/com.duc5e.com.bioprotectxforios11/com.duc5e.com.bioprotectxforios11.deb
+
